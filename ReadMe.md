@@ -3,10 +3,12 @@
 
 Email Me 👉 ✉️ **valakeval08@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Building a **full-stack E-Commerce platform** with MERN Stack (React, Node.js, Express, MongoDB) and integrating role-based authentication (Admin, Vendor, Delivery Agent).  
+- 🌱 **I’m currently learning:** Exploring **Generative AI** (LLMs, AI APIs) and **Python** for AI/ML workflows.
+- 👯 **I’m looking to collaborate on:** **Open-source MERN stack projects**, especially in areas like e-commerce, healthcare apps, and real-time applications (chat apps, live dashboards).  
+- 🤔 **I’m looking for help with:** Best practices for **optimizing large-scale MongoDB databases** and improving **microservices architecture** in Node.js.  
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
@@ -31,7 +33,7 @@ Email Me 👉 ✉️ **valakeval08@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevalVala05&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/keval-vala-268695243)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valakeval08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/keval-vala-268695243) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valakeval08@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
