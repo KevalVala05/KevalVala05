@@ -19,6 +19,8 @@ Email Me 👉 ✉️ **valakeval08@gmail.com** For Collaboration/Project or Anyt
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KevalVala05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
