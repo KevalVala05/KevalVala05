@@ -9,10 +9,6 @@ Email Me 👉 ✉️ **valakeval08@gmail.com** For Collaboration/Project or Anyt
 - 🤔 **I’m looking for help with:** Your project here
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valakeval08@gmail.com)
-
-
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
@@ -35,7 +31,7 @@ Email Me 👉 ✉️ **valakeval08@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevalVala05&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/keval-vala-268695243)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/keval-vala-268695243)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valakeval08@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
